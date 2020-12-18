@@ -64,9 +64,7 @@ int main(int argc, char *argv[])
 
 #endif
 
-    image_print_as_ppm(&out_image); // redirect STDOUT to a file with
-                                    // a .ppm extension to save as an
-                                    // image file
+    image_print_as_ppm(&out_image);
 
 end:
 #ifdef __NVCC__
