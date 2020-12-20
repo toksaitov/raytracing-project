@@ -53,3 +53,18 @@ vimdiff image.ppm gpu_image.ppm
 
 Check Canvas for information about the deadline for the first part.
 
+## Links
+
+### C, GDB
+
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc)
+* [GDB Quick Reference](http://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
+
+### CUDA
+
+* [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+
+## Books
+
+* C Programming: A Modern Approach, 2nd Edition by K. N. King
+* CUDA by Example, 1st Edition by by Jason Sanders
