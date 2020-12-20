@@ -3,18 +3,18 @@ Simple Ray-Sphere Tracer
 
 ![Results](https://i.imgur.com/AUNmCix.png)
 
-In this task, you need to modify a simple Ray-Sphere serial tracing program
-to run in parallel on execution units of a CUDA-capable GPU.
+In this task, you need to modify a simple Ray-Sphere serial tracing program to
+run in parallel mode on CUDA-capable GPU execution units.
 
 For this task, you have to get access to a machine with an NVIDIA CUDA GPU. You
 can get one from Kaggle or Google Collab projects for a limited time. Use the
 provided Jupiter notebook to create the environment. You can also rent the
-machine from Google Cloud. Tesla T4 GPUs are available in multiple regions and
-has a low price per hour especially for preemptable types of virtual machines.
-Remember to commit and push in such environments often, because the machines
-can go offline at any moment. Note, that you have to install the CUDA Toolkit
-and the compiler on your own. Refer to lecture videos or the official
-documentation on how to do that.
+machine from Google Cloud. Tesla T4 GPUs are available in multiple regions
+and have a low price per hour, especially for preemptable virtual machines.
+Remember to commit and push in such environments often because the servers can
+go offline at any moment. Note that you have to install the CUDA Toolkit and the
+compiler on your own. Refer to lecture videos or the official documentation on
+how to do that.
 
 ## Tasks
 
@@ -24,7 +24,7 @@ documentation on how to do that.
 
 3. Write the required CUDA commands, calculate IDs properly.
 
-4. Test the code on a machines with a CUDA-enabled GPU. Compile with `make`, and
+4. Test the code on a machine with a CUDA-enabled GPU. Compile with `make`, and
    run the code.
 
 ```bash
