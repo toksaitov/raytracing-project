@@ -44,7 +44,7 @@ vimdiff image.ppm gpu_image.ppm
 ## What to Submit
 
 1. In your private course repository that was given to you by the instructor
-   during the lecture, create the path `project-3/`.
+   during the lecture, create the path `project-5/`.
 2. Put the `raytracer.c` and `spheres.h` files into that directory.
 3. Commit and push your repository through Git. Submit the last commit ID to
    Canvas before the deadline.
